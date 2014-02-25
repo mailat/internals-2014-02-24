@@ -8,6 +8,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 PRODUCT_NAME := full_marakana_alpha
 PRODUCT_DEVICE := alpha
 PRODUCT_MODEL := Full Marakana Alpha Image for Emulator
+PRODUCT_LOCALES := ru_RU en_US
 
 # Include the common definitions and packages
 include $(LOCAL_PATH)/common.mk
