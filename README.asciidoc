@@ -40,6 +40,12 @@ For extra 100 RUB points:
 
 3. Change the button default color text in RED :)
 
+== Homework Day 02
 
+1. Read the multiuser information at page: NewCircle_Android_Internals.html#slide-134 . 
 
+Activate multiuser on your emulator phone!
 
+Try to use overlay to do the following, activate multiuser on your emulator ( tip: you need beside the value config_multiuserMaximumUsers=>8 also to overlay an landscape layout keyguard_host_view.xml ).
+
+2. Try to remove from your distribution a system app like Browser.
