@@ -17,4 +17,13 @@ PRODUCT_COPY_FILES += \
 # Enable overlays
 DEVICE_PACKAGE_OVERLAYS := $(MY_PATH)/overlay
 
+ # Enable our custom kernel
+LOCAL_KERNEL := $(MY_PATH)/kernel
+PRODUCT_COPY_FILES += $(LOCAL_KERNEL):kernel
+
+# Copy our init and ueventd configuration files to the root
+# file system (ramdisk.img -> boot.img)
+PRODUCT_COPY_FILES += $(MY_PATH)/init.goldfish.rc:root/init.goldfish.rc
+PRODUCT_COPY_FILES += $(MY_PATH)/ueventd.goldfish.rc:root/ueventd.goldfish.rc
+
 

@@ -27,6 +27,10 @@ Introduction to Eclipse - Driving Java Productivity: http://mrkn.co/s/video_intr
 
 Java Tutorial http://docs.oracle.com/javase/tutorial/
 
+Android 4 KitKat changes for marakana-alpha are located at: https://github.com/thenewcircle/alpha/tree/kitkat-dev
+
+Amazon source code for Kindle tablet is located at - http://www.amazon.com/gp/help/customer/display.html?nodeId=200203720
+
 == Homework Day 01
 
 1. Change title of the Browser app in "Novosibirk Browser"
@@ -35,5 +39,7 @@ Java Tutorial http://docs.oracle.com/javase/tutorial/
 For extra 100 RUB points:
 
 3. Change the button default color text in RED :)
+
+
 
 
