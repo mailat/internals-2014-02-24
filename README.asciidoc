@@ -48,4 +48,4 @@ Activate multiuser on your emulator phone!
 
 Try to use overlay to do the following, activate multiuser on your emulator ( tip: you need beside the value config_multiuserMaximumUsers=>8 also to overlay an landscape layout keyguard_host_view.xml ).
 
-2. Try to remove from your distribution a system app like Browser.
+2. Try to remove from your distribution an app like Browser.
