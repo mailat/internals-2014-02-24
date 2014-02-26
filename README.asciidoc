@@ -49,3 +49,11 @@ Activate multiuser on your emulator phone!
 Try to use overlay to do the following, activate multiuser on your emulator ( tip: you need beside the value config_multiuserMaximumUsers=>8 also to overlay an landscape layout keyguard_host_view.xml ).
 
 2. Try to remove from your distribution an app like Browser.
+
+== Homework Day 03
+
+1. Display in status bar HSPA distinct from UMTS data icon on devices
+2. Change the default screen timeout to 30 seconds
+3. Set the automatic brightness mode on by default 
+4. Change the default screen brightness to 36%
+
