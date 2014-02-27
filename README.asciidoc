@@ -57,3 +57,7 @@ Try to use overlay to do the following, activate multiuser on your emulator ( ti
 3. Set the automatic brightness mode on by default 
 4. Change the default screen brightness to 36%
 
+
+== Homework Day 04
+
+1. Extend the Android Non Responsive timeout to 1 hr
